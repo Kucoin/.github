@@ -32,6 +32,27 @@ These SDKs are no longer maintained, and we strongly recommend transitioning to 
 | **kucoin-go-sdk**            | Golang            | Spot only. [Learn More](https://github.com/Kucoin/kucoin-go-sdk)                                                                   |
 | **kucoin-futures-go-sdk**    | Golang            | Futures only. [Learn More](https://github.com/Kucoin/kucoin-futures-go-sdk)                                                       |
 
+## Deprecated repositories
+You should **NOT** use them in any projects
+
+| Repository Name           |
+|---------------------------|
+| kucoin-futures-api-docs   |
+| kucoin-api-docs-hf        |
+| kucoin-api-docs           |
+| kucoin-mining-docs        |
+| kucoin-futures-api-docs-new |
+| kumex-python-sdk          |
+| kumex-php-sdk             |
+| kucoin-level3-sdk         |
+| kumex-level3-sdk          |
+| kumex-go-sdk              |
+| kumex-api-demo            |
+| kucoin-api-demo           |
+| Docs-Deprecated           |
+| kumex-api-docs            |
+
+
 ## Contributing
 
 We welcome contributions from the community! Feel free to open issues, submit pull requests, or suggest ideas to improve the resources in this repository.
