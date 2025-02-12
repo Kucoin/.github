@@ -52,6 +52,23 @@ You should **NOT** use them in any projects
 | Docs-Deprecated           |
 | kumex-api-docs            |
 
+## ⚠ WARNING: MALICIOUS PACKAGES DETECTED ⚠
+
+The following packages, specifically for **Node.js**, are **dangerous** and must not be used under any circumstances:
+
+~~kucoin-internal~~  
+~~kucoin-main~~  
+~~kucoin-dev~~  
+~~kucoin-test~~  
+~~kucoin-production~~
+
+Installing or using these may lead to **data theft, system compromise, and financial loss**.
+
+**If you have them installed, remove them immediately and check your system security.**
+
+Other packages are still under investigation. Stay alert!
+
+
 
 ## Contributing
 
