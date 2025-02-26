@@ -10,10 +10,10 @@ We offer the following SDKs to meet your development needs:
 
 | SDK Name                     | Language/Platform | Description                                                                                   |
 |------------------------------|-------------------|-----------------------------------------------------------------------------------------------|
+| **Kucoin-Universal-Postman-SDK** | Postman            | Supports spot, futures, and broker. [Learn More](https://github.com/Kucoin/kucoin-universal-sdk/blob/main/sdk/postman/README.md) |
 | **Kucoin-Universal-Python-SDK** | Python            | Supports spot, futures, and broker. [Learn More](https://github.com/Kucoin/kucoin-universal-sdk/blob/main/sdk/python/README.md) |
 | **Kucoin-Universal-Go-SDK**     | Golang            | Supports spot, futures, and broker. [Learn More](https://github.com/Kucoin/kucoin-universal-sdk/blob/main/sdk/golang/README.md)    |
-| **kucoin-node-sdk**             | JavaScript        | Spot only. [Learn More](https://github.com/Kucoin/kucoin-node-sdk)                                                                |
-| **kucoin-futures-node-sdk**     | JavaScript        | Futures only. [Learn More](https://github.com/Kucoin/kucoin-futures-node-sdk)                                                     |
+| **Kucoin-Universal-Node-SDK**   | Node.js           | Supports spot, futures, and broker. [Learn More](https://github.com/Kucoin/kucoin-universal-sdk/blob/main/sdk/node/README.md)    |
 | **kucoin-java-sdk**             | Java              | Spot only. [Learn More](https://github.com/Kucoin/kucoin-java-sdk)                                                                |
 | **kucoin-futures-java-sdk**     | Java              | Futures only. [Learn More](https://github.com/Kucoin/kucoin-futures-java-sdk)                                                     |
 | **kucoin-php-sdk**              | PHP               | Spot only. [Learn More](https://github.com/Kucoin/kucoin-php-sdk)                                                                 |
@@ -31,6 +31,8 @@ These SDKs are no longer maintained, and we strongly recommend transitioning to 
 | **kucoin-futures-python-sdk**| Python            | Futures only. [Learn More](https://github.com/Kucoin/kucoin-futures-python-sdk)                                                       |
 | **kucoin-go-sdk**            | Golang            | Spot only. [Learn More](https://github.com/Kucoin/kucoin-go-sdk)                                                                   |
 | **kucoin-futures-go-sdk**    | Golang            | Futures only. [Learn More](https://github.com/Kucoin/kucoin-futures-go-sdk)                                                       |
+| **kucoin-node-sdk**             | JavaScript        | Spot only. [Learn More](https://github.com/Kucoin/kucoin-node-sdk)                                                                |
+| **kucoin-futures-node-sdk**     | JavaScript        | Futures only. [Learn More](https://github.com/Kucoin/kucoin-futures-node-sdk)                                                     |
 
 ## Deprecated repositories
 You should **NOT** use them in any projects
