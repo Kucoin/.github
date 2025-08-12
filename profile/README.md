@@ -15,8 +15,8 @@ We offer the following SDKs to meet your development needs:
 | **Kucoin-Universal-Go-SDK**     | Golang            | Supports spot, futures, and broker. [Learn More](https://github.com/Kucoin/kucoin-universal-sdk/blob/main/sdk/golang/README.md)    |
 | **Kucoin-Universal-Node-SDK**   | Node.js           | Supports spot, futures, and broker. [Learn More](https://github.com/Kucoin/kucoin-universal-sdk/blob/main/sdk/node/README.md)    |
 | **Kucoin-Universal-PHP-SDK**   | PHP           | Supports spot, futures, and broker. [Learn More](https://github.com/Kucoin/kucoin-universal-sdk/blob/main/sdk/php/README.md)    |
-| **kucoin-java-sdk**             | Java              | Spot only. [Learn More](https://github.com/Kucoin/kucoin-java-sdk)                                                                |
-| **kucoin-futures-java-sdk**     | Java              | Futures only. [Learn More](https://github.com/Kucoin/kucoin-futures-java-sdk)                                                     |
+| **Kucoin-Universal-Java-SDK**   | Java           | Supports spot, futures, and broker. [Learn More](https://github.com/Kucoin/kucoin-universal-sdk/blob/main/sdk/java/README.md)    |
+
   
 
 
@@ -34,6 +34,8 @@ These SDKs are no longer maintained, and we strongly recommend transitioning to 
 | **kucoin-futures-node-sdk**     | JavaScript        | Futures only. [Learn More](https://github.com/Kucoin/kucoin-futures-node-sdk)                                                     |
 | **kucoin-php-sdk**              | PHP               | Spot only. [Learn More](https://github.com/Kucoin/kucoin-php-sdk)                                                                 |
 | **kucoin-futures-php-sdk**      | PHP               | Futures only. [Learn More](https://github.com/Kucoin/kucoin-futures-php-sdk)          |
+| **kucoin-java-sdk**             | Java              | Spot only. [Learn More](https://github.com/Kucoin/kucoin-java-sdk)                                                                |
+| **kucoin-futures-java-sdk**     | Java              | Futures only. [Learn More](https://github.com/Kucoin/kucoin-futures-java-sdk)                                                     |
 
 ## Deprecated repositories
 You should **NOT** use them in any projects
